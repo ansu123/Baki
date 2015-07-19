@@ -1,0 +1,2 @@
+# Baki
+C++ dilinden meshgele
